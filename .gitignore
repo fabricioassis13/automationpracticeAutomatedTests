@@ -1,0 +1,5 @@
+.idea/
+automationpracticeAutomatedTests.iml
+target/
+src/main/java/Utils/Sleeper.java
+allure-results/
